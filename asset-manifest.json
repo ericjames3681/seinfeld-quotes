@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/seinfeld-quotes/static/css/main.e0b8f381.chunk.css",
+    "main.js": "/seinfeld-quotes/static/js/main.2016358c.chunk.js",
+    "main.js.map": "/seinfeld-quotes/static/js/main.2016358c.chunk.js.map",
+    "runtime-main.js": "/seinfeld-quotes/static/js/runtime-main.426ea006.js",
+    "runtime-main.js.map": "/seinfeld-quotes/static/js/runtime-main.426ea006.js.map",
+    "static/js/2.036ba4d1.chunk.js": "/seinfeld-quotes/static/js/2.036ba4d1.chunk.js",
+    "static/js/2.036ba4d1.chunk.js.map": "/seinfeld-quotes/static/js/2.036ba4d1.chunk.js.map",
+    "index.html": "/seinfeld-quotes/index.html",
+    "precache-manifest.4cd23fe31d73f10f65e60657b518885c.js": "/seinfeld-quotes/precache-manifest.4cd23fe31d73f10f65e60657b518885c.js",
+    "service-worker.js": "/seinfeld-quotes/service-worker.js",
+    "static/css/main.e0b8f381.chunk.css.map": "/seinfeld-quotes/static/css/main.e0b8f381.chunk.css.map",
+    "static/js/2.036ba4d1.chunk.js.LICENSE.txt": "/seinfeld-quotes/static/js/2.036ba4d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.426ea006.js",
+    "static/js/2.036ba4d1.chunk.js",
+    "static/css/main.e0b8f381.chunk.css",
+    "static/js/main.2016358c.chunk.js"
+  ]
+}
